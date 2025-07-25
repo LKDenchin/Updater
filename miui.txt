@@ -1,0 +1,3 @@
+MIUI|14.0.1|2023-11-15|1.2GB|https://example.com/rom.zip|https://123pan.com/s/xxxx|1. 修复系统稳定性问题\n2. 优化电池续航\n3. 更新安全补丁
+PixelExperience|13.0|2023-11-10|1.1GB|none|https://123pan.com/s/yyyy|1. 更新到最新安全补丁\n2. 修复相机问题
+LineageOS|20.0|2023-11-12|1.3GB|https://example.com/lineage.zip|none|1. 新增功能X\n2. 改进UI设计
